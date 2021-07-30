@@ -34,6 +34,7 @@ export default function Home() {
             alignItems="flex-start"
             flexDirection="column"
             justifyContent="center"
+            marginBottom="40px"
           >
             {/* <Grid.Col value={5} offset={1}> */}
             <Text
